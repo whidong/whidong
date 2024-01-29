@@ -2,8 +2,8 @@
 [![코드트리|실력진단-block2022](https://banner.codetree.ai/v1/banner/block2022)](https://www.codetree.ai/profiles/block2022)
 [![whidong's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whidong&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <br>
+
 ### 🛠 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -14,6 +14,7 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+
 <br>
 <!--
 **whidong/whidong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
