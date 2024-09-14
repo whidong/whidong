@@ -2,6 +2,8 @@
 [![코드트리|실력진단-block2022](https://banner.codetree.ai/v1/banner/block2022)](https://www.codetree.ai/profiles/block2022)
 [![whidong's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whidong&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whidong&show_icons=true&theme=ambient_gradient)
+
 <br>
 
 ### 🛠 Skills
@@ -19,9 +21,6 @@
 <!--
 **whidong/whidong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whidong&show_icons=true&theme=ambient_gradient)
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
