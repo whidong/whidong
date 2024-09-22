@@ -1,8 +1,19 @@
-### Hi there 👋
-[![코드트리|실력진단-block2022](https://banner.codetree.ai/v1/banner/block2022)](https://www.codetree.ai/profiles/block2022)
-[![whidong's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whidong&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=whidong&&style=flat-square" align="right" />
+</div>  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whidong&show_icons=true&theme=ambient_gradient)
+## Github Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whidong&layout=donut&show_icons=true&theme=ambient_gradient&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=whidong&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=whidong&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
+
 
 <br>
 
@@ -17,10 +28,16 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 
+<br/>
+
+### 💫 Education
+- **Posco Ai Bigdata Academy 26th** - (Apr 2024 - Jul 2024)
+  
+<br/>
 <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 <!--
 **whidong/whidong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
