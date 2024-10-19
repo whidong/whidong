@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=whidong&&style=flat-square" align="right" />
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhidong%2Fhit-counter&count_bg=%2330C8BA&title_bg=%23767272&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>  
 
 ## Github Stats
