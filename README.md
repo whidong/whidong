@@ -4,7 +4,7 @@
 </div>  
 
 <h1 style="font-size: 2.5em; text-align: center;">Hi Welcome, I'm Donghwi KIM</h1>
-<p style="font-size: 1.2em; text-align: center;">I'm a senior at Hankuk University of Foreign Studies studying Computer Science & Environmental Science.</p>
+<p style="font-size: 1.2em; text-align: center;">I'm a senior at Hankuk University of Foreign Studies studying Computer Engineering & Environmental Science.</p>
 
 <h2 style="font-size: 1.8em; margin-top: 20px;">About Me</h2>
 <p style="font-size: 1.1em; line-height: 1.6;">
