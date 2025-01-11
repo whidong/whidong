@@ -27,6 +27,8 @@
 
 <p style="font-size: 1.1em; margin-top: 20px;">📫 <strong>Email:</strong> [walwal2008@naver.com]</p>
 
+[<img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark" width="150">](https://bronzehee.tistory.com/)
+
 ### 🛠 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
