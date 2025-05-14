@@ -8,9 +8,9 @@
 
 <h2 style="font-size: 1.8em; margin-top: 20px;">About Me</h2>
 <p style="font-size: 1.1em; line-height: 1.6;">
-    I'm deeply interested in the fields of <strong>Computer Vision AI</strong> and <strong>Robotics</strong>.
+    I'm deeply interested in the fields of <strong>Computer Vision AI</strong>.
     Currently, I am focusing on integrating <strong>AI technologies</strong> into solving real-world challenges, 
-    including image segmentation, 3D reconstructure and robotic path planning.
+    including image segmentation, 3D reconstructure.
 </p>
 
 <h2 style="font-size: 1.8em; margin-top: 20px;">Recent Projects</h2>
@@ -22,7 +22,7 @@
 <h2 style="font-size: 1.8em; margin-top: 20px;">My Goal</h2>
 <p style="font-size: 1.1em; line-height: 1.6;">
     My ultimate goal is to become a dedicated AI researcher, contributing to advancements in 
-    <strong>Computer Vision</strong> and <strong>Robotics</strong>.
+    <strong>Computer Vision</strong>.
 </p>
 
 <p style="font-size: 1.1em; margin-top: 20px;">📫 <strong>Email:</strong> [walwal2008@naver.com]</p>
