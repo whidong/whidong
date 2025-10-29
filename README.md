@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <div align="right">
-[![HitCount](https://hits.dwyl.com/whidong/https://githubcom/whidong.svg?style=flat-square&show=unique)](http://hits.dwyl.com/whidong/https://githubcom/whidong)
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fwhidong?color=green&label=hello%21%21&size=small" alt="hello!!" /></a>
 </div>  
 
 <h1 style="font-size: 2.5em; text-align: center;">Hi Welcome, I'm Donghwi KIM</h1>
